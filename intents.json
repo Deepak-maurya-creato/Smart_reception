@@ -1,0 +1,116 @@
+{
+	"intents": [
+		{
+			"tag":"greeting",
+			"patterns":["Hey","Hello","What's up","How is it going","Hi","God day"],
+			"responses":["Hello Sir", "Hello, What can i do for you"]
+		},
+
+		{
+			"tag":"about",
+			"patterns":["Who are you","Tell me about yourself"],
+			"responses":["I am bvm smart reception assistant" ,"I am bvm assistant"]
+		},
+
+		{
+			"tag":"exit",
+			"patterns":["Bye","Stop","Quit","I want to quit","Goodbye","I want to exit","I have to go"],
+			"responses":[""]
+		},
+
+		{
+			"tag":"built",
+			"patterns":["Who built you?", "Who made you?"],
+			"responses":["I am made by BVM Computer Students"]
+		},
+
+		{
+			"tag":"addmission",
+			"patterns":["How to get new addmission?","How to get addmission?","Wha is process of new addmission?"],
+			"responses":[""]
+		},
+
+
+		{
+			"tag":"portfolio",
+			"patterns":["portfolio inquiry","inquiry please", "portfolio"],
+			"responses":["Yes or Not"]
+		},
+
+		{
+			"tag":"tanmay",
+			"patterns":["Folio of 2196111","portfolio of 2196111", "Folio of ID 2196111"],
+			"responses":[""]
+		},
+
+		{
+			"tag":"kartikey",
+			"patterns":["Folio of 2215064","portfolio of 2215064", "Folio of ID 2215064"],
+			"responses":[""]
+		},
+
+		{
+			"tag":"thanks",
+			"patterns":["thanks","Thank you", "Thank you very much","ok thanks"],
+			"responses":[""]
+		},
+
+		{
+			"tag":"umang",
+			"patterns":["Folio of 3256780","portfolio of 3256780", "Folio of ID 3256780"],
+			"responses":[""]
+		},
+
+		{
+			"tag":"raghav",
+			"patterns":["Folio of 1298022","portfolio of 1298022", "Folio of ID 1298022"],
+			"responses":[""]
+		},
+
+
+		{
+			"tag":"history",
+			"patterns":["history of BVM", "tell me about BVM", "BVM history", "What is history of this school"],
+			"responses":[""]
+		},
+
+		{
+			"tag":"campus",
+			"patterns":["About campus", "tell me about school campus", "Deatil about campus"],
+			"responses":[""]
+		},
+
+		{
+			"tag":"dispensary",
+			"patterns":["Dispensary", "about Dispensary","how is medical facility here", "what is medical facility here"],
+			"responses":[""]
+		},
+
+		{
+			"tag":"fields",
+			"patterns":["How is fields here", "About fields", "Brief about fields"],
+			"responses":[""]
+		},
+
+		{
+			"tag":"house",
+			"patterns":["How many house is here","How many houses BVM have", "House detail plsease"],
+			"responses":[""]
+		},
+
+		{
+			"tag":"srSchool",
+			"patterns":["Describe Senior Academic block", "Senior Academic block", "tell me about Senior Academic block"],
+			"responses":[""]
+		},
+
+		{
+			"tag":"jrSchool",
+			"patterns":["Junior Academic block","tell me about Junior Academic block"],
+			"responses":[""]
+		}
+
+
+
+	]
+}
